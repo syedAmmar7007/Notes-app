@@ -4,7 +4,7 @@ import Login from "./component/login";
 import Dashboard from "./component/dashboard";
 import CreateEditNote from "./component/create-edit-note";
 import { NotesProvider } from "./store/notes-app-store";
-import ProtectedRoute from "./component/protected-routes"; // Add this
+import ProtectedRoute from "./component/protected-routes";
 
 import "./App.css";
 
